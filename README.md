@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project deals with generating three sets of quotes through APIs: Inspirational, Motivational, and Chuck Norris Jokes.
 Enjoy :)
 
-#Screenshot
+## Screenshot
 ![Screenshot (361)](https://user-images.githubusercontent.com/65538173/208236616-12cb1598-8612-4e88-b567-39f4cce51775.png)
 
 
